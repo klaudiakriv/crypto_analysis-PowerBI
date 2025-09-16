@@ -32,4 +32,4 @@
 ## Графики 
 
 ### Годовая доходность
-https://github.com/klaudiakriv/crypto_analysis-PowerBI/blob/main/Annual%20Return%20Chart.png?raw=true))](https://github.com/klaudiakriv/crypto_analysis-PowerBI/blob/main/Annual%20Return%20Chart.png
+https://github.com/klaudiakriv/crypto_analysis-PowerBI/blob/main/Annual%20Return%20Chart.png 
